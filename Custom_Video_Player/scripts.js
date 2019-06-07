@@ -7,6 +7,7 @@ const progressBar = player.querySelector(".progress__filled")
 const toggle = player.querySelector(".toggle")
 const skipButtons = player.querySelectorAll("[data-skip]")
 const ranges = player.querySelectorAll(".player__slider")
+const fullscreen = document.querySelector(".fullscreen")
 
 // Build out functions
 
@@ -21,15 +22,11 @@ function updateButton() {
 }
 
 function skip() {
-  console.log(this.dataset.skip)
   video.currentTime += parseFloat(this.dataset.skip)
 }
 
 function handleRangeUpdate() {
   video[this.name] = this.value
-
-  console.log(this.name)
-  console.log(this.value)
 }
 
 function handleProgress() {
@@ -40,7 +37,11 @@ function handleProgress() {
 function scrub(e) {
   const scrubTime = (e.offsetX / progress.offsetWidth) * video.duration
   video.currentTime = scrubTime
-  console.log(e)
+}
+
+function fullscreenHandler(e) {
+  fullscreen.requestFullscreen()
+  console.log("handle")
 }
 //Connect to events
 
@@ -61,3 +62,5 @@ progress.addEventListener("mousemove", e => mousedown && scrub(e))
 
 progress.addEventListener("mousedown", () => (mousedown = true))
 progress.addEventListener("mouseup", () => (mousedown = false))
+
+fullscreen.addEventListener("click", fullscreenHandler)
