@@ -10,3 +10,8 @@ Pictures just magically appears when user scroll near to them
 
 Exercises for understand difference between reference and copies.
 Also look at some way for creating copies of objects and arrays.
+
+15 LOCAL TAPAS
+
+Simple checklist for any stuff.
+Basically interaction with local Storage
