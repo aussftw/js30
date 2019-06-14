@@ -18,4 +18,8 @@ Basically interaction with local Storage
 
 16 Shadow Mouse Move
 
-Shadow of the element will follow any movements of cursor, in multiple directions with different colors
+Shadow of the element will follow any movements of cursor, in multiple directions with different colors.
+
+17 Array sorting
+
+Sorting an array in alphabetical order, using regular expressions.
