@@ -15,3 +15,7 @@ Also look at some way for creating copies of objects and arrays.
 
 Simple checklist for any stuff.
 Basically interaction with local Storage
+
+16 Shadow Mouse Move
+
+Shadow of the element will follow any movements of cursor, in multiple directions with different colors
