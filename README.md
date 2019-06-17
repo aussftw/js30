@@ -23,3 +23,7 @@ Shadow of the element will follow any movements of cursor, in multiple direction
 17 Array sorting
 
 Sorting an array in alphabetical order, using regular expressions.
+
+18 Tally string times with Reduce
+
+Little script which is calculate total time length of list of videos and show this to user
