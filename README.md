@@ -27,3 +27,7 @@ Sorting an array in alphabetical order, using regular expressions.
 18 Tally string times with Reduce
 
 Little script which is calculate total time length of list of videos and show this to user
+
+19 Photo booth
+
+App can take photos by webcam and change them through different filters
