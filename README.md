@@ -37,3 +37,7 @@ App can take photos by webcam and change them through different filters.
 Voice memo
 
 You can say anything and this application will take a note in your browser with this info.
+
+21 Compass
+
+App looks at your location and show where you headed. Also shows yours speed.
