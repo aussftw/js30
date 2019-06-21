@@ -45,3 +45,7 @@ App looks at your location and show where you headed. Also shows yours speed.
 22 Highlighted links
 
 With this script any word, which is contain a link somewhere will be highlighted.
+
+23 Speech synthesis
+
+Any text from browser will be sounded by different voice. Multiple language support.
