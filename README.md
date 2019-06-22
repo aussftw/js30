@@ -49,3 +49,7 @@ With this script any word, which is contain a link somewhere will be highlighted
 23 Speech synthesis
 
 Any text from browser will be sounded by different voice. Multiple language support.
+
+24 Sticky nav
+
+Navigation on the page will follow any scroll.
