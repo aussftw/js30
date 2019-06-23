@@ -53,3 +53,11 @@ Any text from browser will be sounded by different voice. Multiple language supp
 24 Sticky nav
 
 Navigation on the page will follow any scroll.
+
+25 Event Capture, Propagation, Bubbking and Once
+
+Educational snippet shows how several conepts work:
+-bubbling
+-propagation
+-once
+-event capture
