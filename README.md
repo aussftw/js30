@@ -13,8 +13,7 @@ Also look at some way for creating copies of objects and arrays.
 
 15 LOCAL TAPAS
 
-Simple checklist for any stuff.
-Basically interaction with local Storage
+Simple checklist for any stuff. åBasically interaction with local Storage
 
 16 Shadow Mouse Move
 
@@ -32,9 +31,7 @@ Little script which is calculate total time length of list of videos and show th
 
 App can take photos by webcam and change them through different filters.
 
-20
-
-Voice memo
+20 Voice memo
 
 You can say anything and this application will take a note in your browser with this info.
 
@@ -61,3 +58,7 @@ Educational snippet shows how several conepts work:
 -propagation
 -once
 -event capture
+
+26 Dropdown menus in nav
+
+Practice with dropdown menus in nav
