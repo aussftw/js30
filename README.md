@@ -62,3 +62,7 @@ Educational snippet shows how several conepts work:
 26 Dropdown menus in nav
 
 Practice with dropdown menus in nav
+
+27 Click and drag
+
+This practive shows how to change elements with drag
