@@ -66,3 +66,7 @@ Practice with dropdown menus in nav
 27 Click and drag
 
 This practive shows how to change elements with drag
+
+28 Video playback controller
+
+Wthis this script user can control speed of videoplayback, form 0,1% to 600%.
